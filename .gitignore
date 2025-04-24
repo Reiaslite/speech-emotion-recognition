@@ -1,1 +1,5 @@
 data/*
+saves/*
+notebooks/scrapping.ipynb
+notebooks/test.ipynb
+notebooks/tf_main.ipynb
